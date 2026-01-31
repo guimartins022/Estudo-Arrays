@@ -1,7 +1,7 @@
 ### 📌 Projeto Média de Notas (Java)
 
 Projeto simples em Java desenvolvido para estudo de arrays e laços de repetição,
-utilizando `for` e `for-each` para armazenamento de dados e cálculo da média.
+utilizando `for` e `foreach` para armazenamento de dados e cálculo da média.
 
 ### 🛠 Tecnologias
 - Java
