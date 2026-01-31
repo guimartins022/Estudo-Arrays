@@ -1,14 +1,12 @@
-## Média de Notas em Java
+### 📌 Projeto Média de Notas (Java)
 
-Projeto desenvolvido para estudo de **arrays em Java**, utilizando laços `for` e `for-each`.
+Projeto simples em Java desenvolvido para estudo de arrays e laços de repetição,
+utilizando `for` e `for-each` para armazenamento de dados e cálculo da média.
 
-O programa permite informar uma quantidade variável de notas, armazena os valores em um array e realiza o cálculo da média final.
-
-## Conceitos praticados
+### 🛠 Tecnologias
+- Java
 - Arrays
-- Laços de repetição (`for` e `for-each`)
-- Entrada de dados com `Scanner`
-- Conversão de tipos (`String` → `double`)
-- Lógica básica de programação
+- Estruturas de repetição
 
-> Projeto com foco em aprendizado e prática dos fundamentos da linguagem Java.
+### ▶️ Execução
+Execute a classe `MediaNotas` e informe as notas pelo terminal.
