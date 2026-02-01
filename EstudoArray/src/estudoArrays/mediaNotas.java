@@ -19,8 +19,8 @@ public class mediaNotas {
 		
 		for (int i = 0; i < notasAluno.length; i++) {
 			System.out.printf("Digite a nota %d: \n", i + 1);
-			String valor = entrada.next();
-			notasAluno[i] = Double.parseDouble(valor); // Solução feita para erro com números reais.
+			double valor = entrada.next();
+			notasAluno[i] = valor;
 		}
 		
 		System.out.println("Notas do aluno: " + Arrays.toString(notasAluno));
